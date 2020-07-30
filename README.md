@@ -1,4 +1,4 @@
-## git clone
+## git clone https://github.com/jiteshtask/ReactLtr-Rtl.git
 ## npm i
 ## nmp start
-## run on localhost:3000
+## localhost:3000
